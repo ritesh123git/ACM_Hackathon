@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607277398183",
+    "project_id": "kspa-ed911",
+    "storage_bucket": "kspa-ed911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607277398183:android:2bc9ff39b0085e738ec382",
+        "android_client_info": {
+          "package_name": "com.example.jklmn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607277398183-t3tlphnile7mdln7o2asp85s4f4v5k9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jcLaAQC6MTjcAOr7l9bqM6GgHwKnQlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607277398183-t3tlphnile7mdln7o2asp85s4f4v5k9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
